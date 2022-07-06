@@ -32,4 +32,4 @@
 
 ### Pinned repos:
 
-[![Pinned repos](https://github-readme-stats.vercel.app/api/pin/?username=juy&repo=ActiveMenu&show_owner=true)](https://github.com/juy/ActiveMenu)
+[![Pinned repos](https://github-readme-stats.vercel.app/api/pin/?username=juy&repo=ricoh-supply-cli&show_owner=true)](https://github.com/juy/ActiveMenu)
