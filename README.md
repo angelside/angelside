@@ -61,4 +61,4 @@
 
 # Pinned repos
 
-[![ricoh-supply-cli-py](https://github-readme-stats.vercel.app/api/pin/?username=angelside&repo=ricoh-supply-cli&show_owner=true)](https://github.com/angelside/ricoh-supply-cli-py)
+[![ricoh-supply-cli-py](https://github-readme-stats.vercel.app/api/pin/?username=angelside&repo=ricoh-supply-cli-py&show_owner=true)](https://github.com/angelside/ricoh-supply-cli-py)
