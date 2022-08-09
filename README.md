@@ -1,7 +1,7 @@
 # 💫 About Me
 
 👋 Hello there, this is Sevdalin.  
-🔭 I’m currently working on _[Ricoh supply cli tool](https://github.com/angelside/ricoh-supply-cli)_ (Python)  
+🔭 I’m currently working on _[Ricoh supply cli tool](https://github.com/angelside/ricoh-supply-cli-py)_ (Python)  
 🌱 I’m currently learning **Python**  
 👨‍💻 All of my projects are available at [https://github.com/angelside](https://github.com/angelside?tab=repositories) and [https://github.com/orgs/juy](https://github.com/orgs/juy/repositories)
 
@@ -61,4 +61,4 @@
 
 # Pinned repos
 
-[![ricoh-supply-cli](https://github-readme-stats.vercel.app/api/pin/?username=angelside&repo=ricoh-supply-cli&show_owner=true)](https://github.com/angelside/ricoh-supply-cli)
+[![ricoh-supply-cli-py](https://github-readme-stats.vercel.app/api/pin/?username=angelside&repo=ricoh-supply-cli&show_owner=true)](https://github.com/angelside/ricoh-supply-cli-py)
