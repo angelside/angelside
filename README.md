@@ -3,7 +3,7 @@
 👋 Hello there, this is Sevdalin.  
 🔭 I’m currently working on _[Ricoh supply cli tool](https://github.com/angelside/ricoh-supply-cli)_ (Python)  
 🌱 I’m currently learning **Python**  
-👨‍💻 All of my projects are available at [https://github.com/angelside](https://github.com/angelside)  
+👨‍💻 All of my projects are available at [https://github.com/angelside](https://github.com/angelside?tab=repositories) and [https://github.com/orgs/juy](https://github.com/orgs/juy/repositories)
 
 
 # 💻 Tech Stack
