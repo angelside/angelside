@@ -57,8 +57,3 @@
 # 🍕☕ If you want to sponsor me
 
 [![GitHub-Sponsors](https://img.shields.io/badge/GitHub%20Sponsor-EA4AAA.svg?style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/angelside)
-
-
-# Pinned repos
-
-[![ricoh-supply-cli-py](https://github-readme-stats.vercel.app/api/pin/?username=angelside&repo=ricoh-supply-cli-py&show_owner=true)](https://github.com/angelside/ricoh-supply-cli-py)
