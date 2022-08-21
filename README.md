@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on _Some CLI tools with Python_.
 - 🌱 I’m currently learning **Python**.
 - 👨‍💻 All of my projects are available at [https://github.com/angelside](https://github.com/angelside?tab=repositories).
+<br />
 
 # 💻 Tech Stack
 
@@ -51,7 +52,7 @@
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)](https://www.ansible.com)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=Proxmox&logoColor=white)](https://www.proxmox.com)
 [![Portainer](https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=white)](https://www.portainer.io)
-
+<br /><br />
 
 # 🍕☕ If you want to sponsor me
 
