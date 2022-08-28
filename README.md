@@ -3,7 +3,8 @@
 - 👋 Hello there, this is Sevdalin.
 - 🔭 I’m currently working on _Some CLI tools with Python and Nim_.
 - 🌱 I’m currently learning/using **Python**, **Nim** _(I can jump to **Go Lang** anytime)_.
-- 👨‍💻 All of my projects are available at [https://github.com/angelside](https://github.com/angelside?tab=repositories).
+- 😄 Pronouns: he/him
+- 👨‍💻 Most of my projects are available on [https://github.com/angelside](https://github.com/angelside?tab=repositories).
 <br />
 
 # 💻 Tech Stack
