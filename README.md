@@ -1,7 +1,7 @@
 # 💫 About Me
 
 - 👋 Hello there, this is Sevdalin.
-- 🔭 I’m currently working on _Some CLI tools with Python_.
+- 🔭 I’m currently working on _Some CLI tools with Python and Nim_.
 - 🌱 I’m currently learning **Python**.
 - 👨‍💻 All of my projects are available at [https://github.com/angelside](https://github.com/angelside?tab=repositories).
 <br />
