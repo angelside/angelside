@@ -2,7 +2,7 @@
 
 - 👋 Hello there, this is Sevdalin.
 - 🔭 I’m currently working on _Some CLI tools with Python, Nim, Go_.
-- 🌱 I’m currently learning/using **Python**, **Nim**.
+- 🌱 I’m currently learning/using **Python**, **Nim**, **Go**.
 - 😄 Pronouns: he/him
 - 👨‍💻 Most of my projects are available on [https://github.com/angelside](https://github.com/angelside?tab=repositories).
 <br />
