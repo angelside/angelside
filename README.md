@@ -1,8 +1,8 @@
 # 💫 About Me
 
 - 👋 Hello there, this is Sevdalin.
-- 🔭 I’m currently working on _Some CLI tools with Python, Nim, Go_.
-- 🌱 I’m currently learning/using **Python**, **Nim**, **Go**.
+- 🔭 I’m currently working on _Some CLI tools with Python, Go_.
+- 🌱 I’m currently learning/using **Python**, **Go**.
 - 😄 Pronouns: he/him
 - 👨‍💻 Most of my projects are available on [https://github.com/angelside](https://github.com/angelside?tab=repositories).
 <br />
