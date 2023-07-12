@@ -1,7 +1,7 @@
 # 💫 About Me
 
 - 👋 Hello there, this is Sevdalin.
-- 🔭 I’m currently working on _some CLI tools with Python, Go_.
+- 🔭 I’m currently working on some _CLI tools with Python and Go, a Go+Wails+SvelteKit Windows application_.
 - 🌱 I’m currently learning/using **Python**, **Go**.
 - 😄 Pronouns: he/him
 - 👨‍💻 Most of my projects are available on [https://github.com/angelside](https://github.com/angelside?tab=repositories).
@@ -28,13 +28,16 @@
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com)
-[![Jamstack](https://img.shields.io/badge/Jamstack-F0047F.svg?style=for-the-badge&logo=Jamstack&logoColor=white)](https://jamstack.org)
-[![11ty](https://img.shields.io/badge/Eleventy-000000.svg?style=for-the-badge&logo=Eleventy&logoColor=white)](https://www.11ty.dev)
+[![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)](https://svelte.dev/)
 
 ### Backend
 [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)](https://www.php.net)
 [![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org) <!-- [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org) -->
+[![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org)
+[![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
+[![Wails](https://img.shields.io/badge/Wails-DF0000.svg?style=for-the-badge&logo=Wails&logoColor=white)](https://wails.io/)
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white)](https://kit.svelte.dev/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white)]()
 [![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org)
@@ -46,13 +49,19 @@
 [![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white)](https://www.debian.org)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
 [![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com)
 [![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?style=for-the-badge&logo=Ansible&logoColor=white)](https://www.ansible.com)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=Proxmox&logoColor=white)](https://www.proxmox.com)
 [![Portainer](https://img.shields.io/badge/Portainer-13BEF9.svg?style=for-the-badge&logo=Portainer&logoColor=white)](https://www.portainer.io)
-<br /><br />
+
+### Social
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/angelside)
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@angelside)
+
+<br />
 
 # 🍕☕ If you want to sponsor me
 
