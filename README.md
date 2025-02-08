@@ -1,8 +1,8 @@
 # 💫 About Me
 
 - 👋 Hello there, this is Sevdalin.
-- 🔭 I’m currently working on some CLI tools with Python and Go, some Go+Wails+SvelteKit Windows applications.
-- 🌱 I’m currently learning/using **Python**, **Go**.
+- 🔭 I’m currently working on some CLI/GUI tools with Go, some Go+Wails+SvelteKit applications.
+- 🌱 I’m currently learning/using **Go**.
 - 👨‍💻 All my public projects are available on [https://github.com/angelside](https://github.com/angelside?tab=repositories).
 <br />
 
