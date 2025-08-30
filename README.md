@@ -9,9 +9,10 @@
 # 💻 Tech Stack
 
 ### OS
+
+[![OS:ArchLinux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)](https://archlinux.org)
 [![OS:ArchLinux](https://img.shields.io/badge/WSL-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)](https://archlinux.org)
 [![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)](https://www.microsoft.com)
-[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=Windows-Terminal&logoColor=white)](https://github.com/microsoft/terminal)
 
 ### IDE & Editor
 
